@@ -1,4 +1,4 @@
-# CloudNest Pro
+# CloudNest 
 
 A modern responsive landing page built using HTML, CSS and JavaScript.
 
